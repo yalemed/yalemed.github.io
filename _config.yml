@@ -1,0 +1,11 @@
+# Site settings
+title: Yale Medical Centre
+email: yalemed1280@yahoo.ca
+description: Yale Medical Centre is an addiction clinic providing Methadone and Suboxone maintainance treatment.
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
